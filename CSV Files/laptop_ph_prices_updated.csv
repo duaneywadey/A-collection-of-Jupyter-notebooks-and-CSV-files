@@ -1,0 +1,236 @@
+Brand,CPU_name,RAM,Prices
+Lenovo,Intel Celeron,4GB,19995
+Lenovo,Intel Celeron,4GB,20999
+HP,Intel Celeron,4GB,21990
+Asus,Intel Celeron,4GB,21995
+Acer,Intel Celeron,4GB,21995
+Acer,Intel Pentium,4GB,21999
+Lenovo,Intel Celeron,4GB,21999
+Acer,Intel Celeron,4GB,22499
+Acer,Intel Celeron,4GB,22499
+Asus,Intel Celeron,4GB,22995
+Asus,Intel Celeron,4GB,23999
+Acer,Intel Pentium,8GB,24990
+Acer,Intel Core i3,4GB,24995
+Acer,Intel Pentium,8GB,24999
+Acer,Intel Pentium,8GB,24999
+Acer,Intel Pentium,8GB,24999
+Asus,Intel Pentium,8GB,25995
+Asus,Intel Pentium,8GB,25995
+HP,Intel Pentium,8GB,25999
+Acer,Intel Core i3,4GB,26999
+Asus,AMD Ryzen 3,8GB,27995
+Lenovo,Intel Core i3,4GB,27999
+Lenovo,Intel Core i3,4GB,28995
+Acer,Intel Core i3,8GB,28999
+Acer,Intel Core i3,Others,28999
+Acer,Intel Pentium,4GB,29990
+HP,AMD Ryzen 3,4GB,29990
+Asus,AMD Ryzen 3,4GB,29995
+Asus,AMD Ryzen 3,4GB,29995
+Asus,AMD Ryzen 3,4GB,29995
+Asus,Intel Core i3,8GB,29995
+Lenovo,AMD Ryzen 3,4GB,29995
+Acer,Intel Core i3,8GB,29999
+Acer,Intel Core i3,Others,29999
+Acer,Intel Core i3,8GB,29999
+Acer,Intel Core i3,8GB,29999
+Acer,Intel Core i3,8GB,29999
+Acer,Intel Core i3,4GB,29999
+Acer,Intel Core i3,8GB,29999
+Acer,Intel Core i3,8GB,30500
+HP,Intel Core i3,4GB,30999
+HP,Intel Core i3,4GB,31990
+Acer,Intel Core i3,8GB,31990
+HP,AMD Ryzen 3,4GB,31990
+HP,Intel Core i3,8GB,31990
+HP,Intel Core i3,4GB,31990
+Asus,Intel Core i3,4GB,31995
+Asus,Intel Core i3,4GB,31995
+Asus,Intel Core i3,4GB,31995
+Asus,Intel Core i3,8GB,31995
+Asus,Intel Core i3,Others,31995
+Lenovo,Intel Core i3,4GB,31995
+Lenovo,Intel Core i3,4GB,31995
+Asus,Intel Core i3,8GB,31995
+Lenovo,Intel Core i3,4GB,31995
+Asus,Intel Core i3,4GB,31999
+Acer,Intel Core i3,8GB,31999
+Acer,Intel Core i3,4GB,31999
+Acer,Intel Core i3,8GB,31999
+Acer,Intel Core i3,4GB,31999
+Asus,Intel Core i3,Others,32495
+Lenovo,Intel Core i3,4GB,32995
+Huawei,Others,Others,32999
+Huawei,Intel Core i3,8GB,32999
+Lenovo,Intel Core i3,4GB,33995
+MSI,Intel Core i3,8GB,33995
+MSI,AMD Ryzen 3,8GB,33995
+Lenovo,Intel Core i3,4GB,33995
+Lenovo,Intel Core i3,4GB,33999
+Acer,Intel Core i3,8GB,33999
+Lenovo,Intel Core i3,4GB,34995
+Lenovo,Intel Core i3,4GB,34995
+Acer,Intel Core i3,8GB,34995
+Acer,Intel Core i5,8GB,34999
+Huawei,Intel Core i5,8GB,34999
+Acer,Intel Core i3,8GB,34999
+Acer,Intel Core i3,8GB,34999
+Acer,Intel Core i3,8GB,34999
+Huawei,Intel Core i3,Others,34999
+Acer,Intel Core i5,4GB,34999
+Acer,Intel Core i5,4GB,34999
+Acer,Intel Core i3,8GB,34999
+Acer,Intel Core i5,4GB,35999
+Acer,Intel Core i3,8GB,36990
+Asus,Intel Core i5,4GB,36995
+Asus,Intel Core i3,8GB,36995
+Asus,Intel Core i3,8GB,36995
+Acer,Intel Core i3,8GB,36999
+Lenovo,AMD Ryzen 5,4GB,37995
+MSI,Intel Core i3,8GB,37995
+Asus,AMD Ryzen 5,8GB,37995
+Huawei,AMD Ryzen 5,4GB,37999
+Acer,Intel Core i5,4GB,37999
+Lenovo,AMD Ryzen 5,4GB,38995
+Lenovo,AMD Ryzen 5,4GB,38995
+Lenovo,AMD Ryzen 5,4GB,38995
+HP,AMD Ryzen 5,16GB,39990
+HP,AMD Ryzen 5,8GB,39990
+Asus,Intel Core i5,4GB,39995
+Lenovo,Intel Core i5,4GB,39995
+Lenovo,Intel Core i5,4GB,39995
+Asus,Intel Core i5,4GB,39995
+Asus,Intel Core i5,4GB,39995
+Asus,Intel Pentium,4GB,39995
+Lenovo,Intel Core i5,8GB,39995
+Acer,Intel Core i5,8GB,39995
+Acer,Intel Core i5,4GB,39999
+Acer,Intel Core i5,8GB,39999
+Huawei,AMD Ryzen 5,8GB,39999
+Acer,Intel Core i5,8GB,39999
+Acer,Intel Core i5,8GB,39999
+Acer,Intel Core i5,4GB,39999
+Acer,Intel Core i5,4GB,39999
+Asus,Intel Core i5,4GB,40995
+HP,Intel Core i5,8GB,41990
+HP,Intel Core i5,8GB,41990
+Asus,Intel Core i5,4GB,41995
+Asus,Intel Core i5,8GB,41995
+Acer,AMD Ryzen 5,8GB,41999
+Acer,Intel Core i5,8GB,41999
+Lenovo,Intel Core i5,8GB,42995
+Lenovo,Intel Core i5,8GB,42995
+Lenovo,Intel Core i5,8GB,42995
+Lenovo,Intel Core i5,8GB,42995
+Acer,Intel Core i5,8GB,42999
+Acer,Intel Core i5,8GB,42999
+Acer,Intel Core i5,8GB,42999
+Acer,Intel Core i5,8GB,42999
+Acer,Intel Core i5,8GB,42999
+Lenovo,Intel Core i5,8GB,43995
+Asus,Intel Core i5,8GB,43995
+Acer,AMD Ryzen 5,8GB,43999
+Acer,Intel Core i5,8GB,44499
+HP,AMD Ryzen 7,8GB,44990
+HP,Intel Core i3,8GB,44990
+Acer,Intel Core i5,8GB,44990
+Lenovo,Intel Core i5,4GB,44995
+Lenovo,Intel Core i5,8GB,44995
+Asus,Intel Pentium,8GB,44995
+Acer,Intel Core i5,8GB,44999
+Lenovo,AMD Ryzen 5,8GB,46995
+Acer,Intel Core i5,8GB,46999
+Asus,Intel Core i5,8GB,47995
+Lenovo,AMD Ryzen 7,16GB,47995
+Acer,Intel Core i5,8GB,47995
+Acer,Intel Core i5,16GB,47999
+Acer,Intel Core i7,4GB,47999
+HP,Intel Core i5,4GB,49990
+Lenovo,Intel Core i5,16GB,49990
+HP,Intel Core i5,8GB,49990
+HP,Intel Core i5,4GB,49990
+Asus,Intel Core i7,4GB,49995
+Asus,Intel Core i5,8GB,49995
+MSI,Intel Core i5,8GB,49995
+Asus,Intel Core i5,16GB,49995
+Asus,Intel Core i7,4GB,49995
+Asus,Intel Core i7,8GB,49995
+Lenovo,Intel Core i5,4GB,49995
+Lenovo,Intel Core i5,16GB,49995
+Asus,Intel Core i5,8GB,49995
+Acer,Intel Core i7,8GB,49999
+Acer,Intel Core i5,8GB,49999
+Lenovo,Intel Core i7,8GB,50995
+Huawei,AMD Ryzen 5,8GB,50999
+Asus,AMD Ryzen 7,8GB,51995
+Asus,AMD Ryzen 7,8GB,51995
+HP,Intel Core i5,8GB,52990
+HP,Intel Core i5,4GB,52990
+HP,AMD Ryzen 5,16GB,52990
+Lenovo,AMD Ryzen 5,16GB,52995
+Lenovo,Intel Core i5,16GB,52995
+Dell,Intel Core i5,8GB,53990
+Lenovo,Intel Core i5,4GB,53995
+Asus,Intel Core i7,4GB,53995
+HP,Intel Core i5,8GB,54990
+Acer,Intel Core i5,Others,54990
+Asus,Intel Core i5,8GB,54995
+Asus,Intel Core i5,16GB,54995
+Asus,AMD Ryzen 7,8GB,54995
+Asus,AMD Ryzen 7,8GB,54995
+Asus,Intel Core i5,8GB,54995
+Lenovo,Intel Core i7,8GB,54999
+Acer,Intel Core i5,16GB,54999
+HP,AMD Ryzen 3,8GB,55990
+MSI,Intel Core i7,8GB,55995
+MSI,Intel Core i5,8GB,55995
+Asus,Intel Core i5,8GB,55995
+Asus,Intel Core i5,8GB,55995
+HP,Others,8GB,57990
+Lenovo,Intel Core i7,8GB,57995
+Acer,Intel Core i7,16GB,58999
+HP,AMD Ryzen 7,16GB,59990
+HP,Intel Core i5,8GB,59990
+Lenovo,Intel Core i7,4GB,59995
+Lenovo,Intel Core i7,16GB,59995
+Asus,Intel Core i5,16GB,59995
+HP,Intel Core i5,8GB,59999
+Acer,Intel Core i7,16GB,59999
+Acer,Intel Core i7,8GB,59999
+Acer,Intel Core i5,8GB,59999
+HP,Intel Core i7,8GB,62990
+HP,Intel Core i7,8GB,62990
+HP,Intel Core i7,8GB,62990
+Dell,Intel Core i7,8GB,62990
+HP,AMD Ryzen 5,8GB,62990
+Asus,AMD Ryzen 5,16GB,62995
+Asus,AMD Ryzen 5,16GB,62995
+Acer,Intel Core i5,8GB,62999
+HP,Intel Core i5,8GB,64990
+Lenovo,AMD Ryzen 7,16GB,64995
+Asus,Intel Core i5,8GB,64995
+Asus,Intel Core i7,16GB,64995
+Asus,AMD Ryzen 5,8GB,64995
+HP,AMD Ryzen 7,16GB,69990
+Asus,Intel Core i7,8GB,69995
+Acer,Intel Core i7,16GB,69999
+Asus,Intel Core i5,16GB,69999
+Acer,Intel Core i7,16GB,69999
+Lenovo,Intel Core i7,16GB,71995
+HP,Intel Core i7,16GB,72990
+HP,Intel Core i7,16GB,72990
+HP,Intel Core i5,16GB,79990
+Asus,Intel Core i7,8GB,79995
+Asus,Intel Core i5,16GB,84995
+HP,Intel Core i5,8GB,85990
+HP,Intel Core i5,8GB,87990
+HP,Intel Core i5,8GB,87990
+Asus,Intel Core i7,16GB,89995
+Asus,Intel Core i7,16GB,94995
+HP,Intel Core i7,16GB,95990
+HP,Intel Core i7,16GB,95990
+HP,Intel Core i7,16GB,99990
+Asus,Intel Core i7,16GB,99995
+HP,Intel Core i7,16GB,102990
+HP,Intel Core i7,16GB,102990
